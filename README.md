@@ -24,3 +24,5 @@ This will download a `mnist.zip` file into a `data` folder and unzip it.
 ### Tips
 * Set `showsize=True` to see the download progress
 * Set `overwrite=True` you really want to overwrite an already existent file.
+
+# 🧐
